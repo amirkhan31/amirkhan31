@@ -1,16 +1,15 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To Desphixs</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To Amir khan Space</h1>
 
 <br>
 
-Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile app developer 👨🏻‍💻 from <b>Nigeria</b>. I'm a Results-oriented full stack developer with 4+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
+Hi, I'm Amir khan, a web and mobile app developer 👨🏻‍💻 from <b>India</b>. I'm a Results-oriented full stack developer with 3+ years experience developing, testing, and maintaining enterprise applications. 
 
 <br>
 
 <img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
- - 📫 How to reach me: [desphixs@gmail.com](mailto:desphixs@gmail.com);
- - 🔗 My Website: Coming Soon...
-<!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
+ - 📫 How to reach me: [amir7678khan@gmail.com](mailto:amir7678khan@gmail.com);
+ - 🔗 My website: [https://www.Zyvotech.com/](https://zyvotech.com/)
  
  <br>
 <h3>Profile Views</h3>
